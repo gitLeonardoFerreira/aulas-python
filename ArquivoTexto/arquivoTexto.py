@@ -35,3 +35,7 @@ print(arqAlunos.read())
 
 print('\nFechando arquivo')
 arqAlunos.close
+
+# 'r' = leitura
+# 'w' = escrita
+# 'a' = escrita no final
