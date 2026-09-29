@@ -1,0 +1,3 @@
+571311, Leonardo Barbosa, 7.5, 9.0, 10.0, 8.5
+567812, Daniel Roberto, 8.0, 9.0, 9.0, 8.5
+572233, Jecky Cossio, 7.0, 8.9, 9.4, 7.9
